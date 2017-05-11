@@ -7,4 +7,4 @@ i am 5 feet 10 inches tall
 
 i weight 195
 
-i have 1 dog
+i have 0 dog
