@@ -15,3 +15,5 @@ from my computer
 test from git
 
 from branch 6
+
+added from computer b7
